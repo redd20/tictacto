@@ -1,0 +1,7 @@
+C:\Users\redd20\source\repos\TicTacTo2\TicTacTo2\bin\Debug\TicTacTo2.exe.config
+C:\Users\redd20\source\repos\TicTacTo2\TicTacTo2\bin\Debug\TicTacTo2.exe
+C:\Users\redd20\source\repos\TicTacTo2\TicTacTo2\bin\Debug\TicTacTo2.pdb
+C:\Users\redd20\source\repos\TicTacTo2\TicTacTo2\obj\Debug\TicTacTo2.csprojAssemblyReference.cache
+C:\Users\redd20\source\repos\TicTacTo2\TicTacTo2\obj\Debug\TicTacTo2.csproj.CoreCompileInputs.cache
+C:\Users\redd20\source\repos\TicTacTo2\TicTacTo2\obj\Debug\TicTacTo2.exe
+C:\Users\redd20\source\repos\TicTacTo2\TicTacTo2\obj\Debug\TicTacTo2.pdb
